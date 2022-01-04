@@ -1,6 +1,6 @@
 <p align="left">
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=NaokiYazawa&show_icons=ture" />
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaokiYazawa&layout=compact&show_icons=true" />
+  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=NaokiYazawa&show_icons=ture" />
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaokiYazawa&layout=compact&show_icons=true" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NaokiYazawa&column=7)](https://github.com/ryo-ma/github-profile-trophy)
