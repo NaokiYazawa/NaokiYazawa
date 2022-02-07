@@ -2,8 +2,8 @@
 <p>I am always open in working with new tech stack.</p><br>
 
 <p align="left">
-  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=NaokiYazawa&show_icons=ture" />
-  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=NaokiYazawa" alt="HrugVed" />
+  <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=NaokiYazawa&show_icons=ture" />
+  <img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=NaokiYazawa" alt="HrugVed" />
 </p>
 
 
