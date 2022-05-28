@@ -1,14 +1,11 @@
 <p>Hi there 👋, my name is Naoki Yazawa</p>
 <p>I am always open in working with new tech stack.</p><br>
 
-<!--
-<p align="left">
-  <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=NaokiYazawa&show_icons=ture" />
-  <img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=NaokiYazawa" alt="HrugVed" />
-</p>
--->
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaokiYazawa&show_icons=true&locale=en&layout=compact" alt="arunsridher" /></p>
+<p align="left">
+  <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaokiYazawa&show_icons=true&locale=en&layout=compact" />
+  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=NaokiYazawa&count_private=true&show_icons=true" alt="HrugVed" />
+</p>
 
 <!--
 **NaokiYazawa/NaokiYazawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
