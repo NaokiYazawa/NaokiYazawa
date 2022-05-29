@@ -4,7 +4,7 @@
 
 <p align="left">
   <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaokiYazawa&show_icons=true&locale=en&layout=compact" />
-  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=NaokiYazawa&count_private=true&show_icons=true" alt="HrugVed" />
+<!--   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=NaokiYazawa&count_private=true&show_icons=true" alt="HrugVed" /> -->
 </p>
 
 <!--
